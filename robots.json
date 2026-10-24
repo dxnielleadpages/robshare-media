@@ -1,7 +1,7 @@
 {
   "baseUrl": "https://cdn.jsdelivr.net/gh/dxnielleadpages/robshare-media@v1/",
-  "published": false,
-  "note": "URLs resolve after dxnielleadpages/robshare-media is public and tagged v1.",
+  "published": true,
+  "note": "Public repo dxnielleadpages/robshare-media, pinned at tag v1.",
   "robots": [
     {
       "slug": "pepper",
